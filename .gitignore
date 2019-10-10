@@ -1,0 +1,11 @@
+delphi-errors-env/
+./delphi_errors-env/*
+
+.vscode/
+.ipynb_checkpoints/
+
+*.ipynb
+.DS_Store
+
+score_diff/
+
